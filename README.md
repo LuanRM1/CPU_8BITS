@@ -25,7 +25,7 @@ Depois de baixar e descompactar o "Digital", siga estes passos para abrir e roda
 
 2.  **Abra o Arquivo do Projeto**:
     * Com o software "Digital" aberto, vá no menu `Arquivo` -> `Abrir...`.
-    * Navegue até a pasta onde você salvou os arquivos deste projeto e abra o arquivo principal do circuito, que provavelmente se chama **`main.dig`**.
+    * Navegue até a pasta onde você salvou os arquivos deste projeto e abra o arquivo principal do circuito, **`main_v1.dig`**.
 
 3.  **Inicie a Simulação**:
     * Com o circuito da CPU visível na tela, clique no botão **"Play"** (a seta verde na barra de ferramentas) para iniciar a simulação.
